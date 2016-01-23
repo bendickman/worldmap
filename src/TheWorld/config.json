@@ -1,0 +1,8 @@
+﻿{
+  "ApplicationSettings": {
+    "EmailAddress": "ben@me.com"
+  },
+  "Data": {
+    "WorldContextConnection": "Server=(localDB)\\ProjectsV12;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}
